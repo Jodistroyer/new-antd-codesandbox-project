@@ -10,6 +10,7 @@ function AntButton() {
         <Button type="dashed">Dashed Button</Button>
         <Button type="text">Text Button</Button>
         <Button type="link">Link Button</Button>
+        <h1>Hello</h1>
       </Space>
     </div>
   );
