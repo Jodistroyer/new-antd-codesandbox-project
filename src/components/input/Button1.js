@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Space } from "antd";
 
-function AntButton() {
+function Button1() {
   return (
     <div>
       <Space wrap>
@@ -10,9 +10,10 @@ function AntButton() {
         <Button type="dashed">Dashed Button</Button>
         <Button type="text">Text Button</Button>
         <Button type="link">Link Button</Button>
+        <h1>Test</h1>
       </Space>
     </div>
   );
 }
 
-export default AntButton;
+export default Button1;

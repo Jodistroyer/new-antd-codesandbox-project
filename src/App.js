@@ -1,11 +1,10 @@
 import "./styles.css";
-import { Button, Space } from "antd";
-import AntButton from "./components/input/antd/AntButton";
+import Button1 from "./components/input/Button1";
 
 export default function App() {
   return (
     <div className="App">
-      <AntButton />
+      <Button1 />
     </div>
   );
 }
